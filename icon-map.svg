@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- 접힌 지도 -->
+  <path d="M4 22 L22 16 L42 22 L60 16 L60 56 L42 62 L22 56 L4 62 Z" fill="#F7F2E4" stroke="#6A1629" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M22 16 V56 M42 22 V62" stroke="#6A1629" stroke-width="2.5" opacity=".55"/>
+  <path d="M7 50 Q20 44 30 49 T57 42" fill="none" stroke="#C9A97A" stroke-width="3" stroke-linecap="round"/>
+  <!-- 핀 -->
+  <path d="M33 2C24.7 2 18 8.6 18 16.8 18 27.8 33 41 33 41s15-13.2 15-24.2C48 8.6 41.3 2 33 2z" fill="#6A1629" stroke="#F7F2E4" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="33" cy="16.5" r="5.6" fill="#F7F2E4"/>
+</svg>
